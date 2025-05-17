@@ -1,0 +1,17 @@
+学习资料来源：
+
+【机器学习 | 一文看懂SVM算法从原理到实现全解析 - CSDN App】
+https://blog.csdn.net/qq_53123067/article/details/136060974?sharetype=blog&shareId=136060974&sharerefer=APP&sharesource=m0_74366484&sharefrom=link
+
+【机器学习——朴素贝叶斯 - CSDN App】
+https://blog.csdn.net/hh3023241040/article/details/138707835?sharetype=blog&shareId=138707835&sharerefer=APP&sharesource=m0_74366484&sharefrom=link
+
+【机器学习——一元线性回归(算法实现与评估) - CSDN App】
+https://blog.csdn.net/m0_60548895/article/details/146457564?sharetype=blog&shareId=146457564&sharerefer=APP&sharesource=m0_74366484&sharefrom=link
+
+心得体会：
+
+在本次实践周，我选择对以前学习过的机器学习的几个重要算法进行复习。
+在仔细阅读过学习资料后，我对这几种算法又有了新的理解，也意识到以前对知识点的掌握还不够全面和透彻。
+用代码复现实验成功的关键在于对算法有正确的理解，代码并不复杂，重点是将算法思想转变为代码并且避免由疏忽造成的bug。
+计算机学生需要不断地学习新知识，但与此同时，我们也不能轻视温习旧知的重要性。应该定期复习形成长期记忆。在每次复习时认真思考，补全理解的不足之处，以此做到温故知新。只有这样，我们才能真正学有所成，在计算机专业的路上走得更远更好。
